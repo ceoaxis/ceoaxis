@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ceoaxis
 - 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning IOT
-- 💞️ I’m looking to collaborate embedded systems
+- 💞️ I’m looking to collaborate in embedded systems
 - 📫 How to reach me : ceoaxis.edu.eng@gmail.com
 
 <!---
