@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ceoaxis
+- 👋 Hi, I’m @ Obasi
 - 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning IOT
 - 💞️ I’m looking to collaborate in embedded systems
